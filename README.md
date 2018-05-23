@@ -1,1 +1,1 @@
-# RNN-test
+# Intro-to-python
